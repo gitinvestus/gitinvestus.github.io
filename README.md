@@ -10,4 +10,5 @@ https://investus.itch.io Check (game dev webgl team) Portfolio , playable free i
 
 Keep your old tech and can do so mutch with pc so cool ready to play, and use new software tech-demo team to unity 3d game dev c#.
 
+Refresh F5 this Site in Browser / Webgl to see are there Updates with Key Combi ShortCut: CTRL R
 Here is the from Link Github Pages to Repository: https://github.com/gitinvestus
