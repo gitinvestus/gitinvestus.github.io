@@ -1,5 +1,5 @@
-[https://gitinvestus.github.io](https://gitinvestus.github.io) Welcome,
-## Check (game dev webgl team) Portfolio , playable free in your Browser:
+## Welcome, [https://gitinvestus.github.io](https://gitinvestus.github.io) 
+Check (game dev webgl team) Portfolio , playable free in your Browser:
 # [https://investus.itch.io](https://investus.itch.io) 
 
 ![https://investus.itch.io/duel-discodj-shooter](https://img.itch.zone/aW1nLzEzMTg3MDI4LnBuZw==/180x143%23c/aMgFA8.png)
