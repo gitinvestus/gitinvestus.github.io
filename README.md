@@ -12,3 +12,5 @@ Keep your old tech and can do so mutch with pc so cool ready to play, and use ne
 
 Refresh F5 this Site in Browser / Webgl to see are there Updates with Key Combi ShortCut: CTRL R
 Here is the from Link Github Pages to Repository: https://github.com/gitinvestus
+
+Support with Likes and play to Test Games, thanks to Github and you
